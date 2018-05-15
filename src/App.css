@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+  height: 100vh;
+  //margin:  1rem;
+}
+
+.one,
+.two,
+.three {
+  margin-bottom: 1rem;
+  
+}
+  
+
+input {
+  padding: .5rem;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
