@@ -14,7 +14,6 @@ class App extends Component {
 
    calcHandler = name => event =>{
       this.setState({[name]: parseInt(event.target.value)});
-      console.log(name)
   }
 
   
